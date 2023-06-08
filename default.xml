@@ -116,7 +116,6 @@
   <project path="external/adt-infra" name="platform/external/adt-infra" groups="adt-infra,notdefault,pdk-fs" />
   <project path="external/android-clat" name="platform/external/android-clat" groups="pdk" />
   <project path="external/androidplot" name="platform/external/androidplot" groups="pdk" />
-  <project path="external/angle" name="platform/external/angle" groups="pdk" />
   <project path="external/ant-glob" name="platform/external/ant-glob" groups="pdk" />
   <project path="external/antlr" name="platform/external/antlr" groups="pdk" />
   <project path="external/apache-commons-bcel" name="platform/external/apache-commons-bcel" groups="pdk" />
@@ -731,7 +730,6 @@
   <project path="hardware/knowles/athletico/sound_trigger_hal" name="platform/hardware/knowles/athletico/sound_trigger_hal" groups="coral,generic_fs" />
   <project path="hardware/libhardware" name="platform/hardware/libhardware" groups="pdk" />
   <project path="hardware/libhardware_legacy" name="platform/hardware/libhardware_legacy" groups="pdk" />
-  <project path="hardware/nxp/nfc" name="platform/hardware/nxp/nfc" groups="pdk" />
   <project path="hardware/nxp/secure_element" name="platform/hardware/nxp/secure_element" groups="pdk" />
   <project path="hardware/qcom/audio" name="platform/hardware/qcom/audio" groups="qcom,qcom_audio,pdk-qcom" />
   <project path="hardware/qcom/bootctrl" name="platform/hardware/qcom/bootctrl" groups="pdk-qcom" />
@@ -829,7 +827,6 @@
   <project path="packages/apps/Car/Provision" name="platform/packages/apps/Car/Provision" groups="pdk-fs" />
   <project path="packages/apps/Car/Radio" name="platform/packages/apps/Car/Radio" groups="pdk-fs" />
   <project path="packages/apps/Car/RotaryController" name="platform/packages/apps/Car/RotaryController" groups="pdk-fs" />
-  <project path="packages/apps/Car/Settings" name="platform/packages/apps/Car/Settings" groups="pdk-fs" />
   <project path="packages/apps/Car/SettingsIntelligence" name="platform/packages/apps/Car/SettingsIntelligence" groups="pdk-fs" />
   <project path="packages/apps/Car/systemlibs" name="platform/packages/apps/Car/systemlibs" groups="pdk-fs" />
   <project path="packages/apps/Car/SystemUpdater" name="platform/packages/apps/Car/SystemUpdater" groups="pdk-fs" />
@@ -842,7 +839,6 @@
   <project path="packages/apps/DeskClock" name="platform/packages/apps/DeskClock" groups="pdk-fs" />
   <project path="packages/apps/DevCamera" name="platform/packages/apps/DevCamera" groups="pdk" />
   <project path="packages/apps/Dialer" name="platform/packages/apps/Dialer" groups="pdk-fs" />
-  <project path="packages/apps/DocumentsUI" name="platform/packages/apps/DocumentsUI" groups="pdk-cw-fs,pdk-fs" />
   <project path="packages/apps/EmergencyInfo" name="platform/packages/apps/EmergencyInfo" groups="pdk-fs" />
   <project path="packages/apps/Gallery" name="platform/packages/apps/Gallery" groups="pdk-fs" />
   <project path="packages/apps/Gallery2" name="platform/packages/apps/Gallery2" groups="pdk-fs" />
@@ -877,8 +873,6 @@
   <project path="packages/apps/TimeZoneData" name="platform/packages/apps/TimeZoneData" groups="pdk" />
   <project path="packages/apps/TimeZoneUpdater" name="platform/packages/apps/TimeZoneUpdater" groups="pdk" />
   <project path="packages/apps/ThemePicker" name="platform/packages/apps/ThemePicker" groups="pdk-fs" />
-  <project path="packages/apps/Traceur" name="platform/packages/apps/Traceur" groups="pdk-fs" />
-  <project path="packages/apps/TvSettings" name="platform/packages/apps/TvSettings" groups="pdk-fs" />
   <project path="packages/apps/TV" name="platform/packages/apps/TV" groups="pdk" />
   <project path="packages/apps/UniversalMediaPlayer" name="platform/packages/apps/UniversalMediaPlayer" />
   <project path="packages/apps/WallpaperPicker" name="platform/packages/apps/WallpaperPicker" groups="pdk-fs" />
@@ -1038,7 +1032,6 @@
   <project path="system/memory/libmemunreachable" name="platform/system/memory/libmemunreachable" groups="pdk" />
   <project path="system/memory/lmkd" name="platform/system/memory/lmkd" groups="pdk" />
   <project path="system/netd" name="platform/system/netd" groups="pdk" />
-  <project path="system/nfc" name="platform/system/nfc" groups="pdk" />
   <project path="system/nvram" name="platform/system/nvram" groups="pdk" />
   <project path="system/security" name="platform/system/security" groups="pdk" />
   <project path="system/sepolicy" name="platform/system/sepolicy" groups="pdk" />
